@@ -1,0 +1,17 @@
+# Ignore environment files
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS-specific
+.DS_Store
+
+# IDE-specific
+.vscode/
+.idea/
+coverage/
