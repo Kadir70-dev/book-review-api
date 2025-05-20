@@ -7,7 +7,7 @@
 
 ## Setup
 ```bash
-git clone <your-repo>
+git clone https://github.com/Kadir70-dev/book-review-api.git
 cd book-review-api
 npm install
 cp .env
