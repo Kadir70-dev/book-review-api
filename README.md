@@ -11,4 +11,6 @@ git clone https://github.com/Kadir70-dev/book-review-api.git
 cd book-review-api
 npm install
 cp .env
-# book-review-api
+
+##unit testing
+npm test
