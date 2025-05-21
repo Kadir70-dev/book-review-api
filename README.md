@@ -37,7 +37,7 @@ A RESTful API built with Node.js, Express.js, and MongoDB to manage books and us
 4. **Start the server**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 ---
