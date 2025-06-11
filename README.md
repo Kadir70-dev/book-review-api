@@ -12,7 +12,7 @@ A RESTful API built with Node.js, Express.js, and MongoDB to manage books and us
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repo**
    ```bash
