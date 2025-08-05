@@ -1,10 +1,8 @@
- #  Book Review APIS.        
+ #  Book Review APIS.          
                                                                                                                                                                                                                                                                                                                                                                                 
                    
   
-                                                                                           
-
-A RESTful API built with Node.js, Express.js, and MongoDB to manage books and user reviews. Includes JWT-based authentication and search functionality.
+                                                                                  A RESTful API built with Node.js, Express.js, and MongoDB to manage books and user reviews. Includes JWT-based authentication and search functionality.
 
 ---
 
